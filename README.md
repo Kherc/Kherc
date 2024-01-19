@@ -1,4 +1,12 @@
-### Hi there 👋
+Hello there!  
+I'm Zaeim, 21, Iran 
+Currently working on my  Python skills
+Planning on becoming a full stack programmer by learning several coding languages
+You can reach me at my: 
+Email: 141.hiewa@gmail.com
+Discord: anathema72
+Telegram: Kher30
+
 
 <!--
 **Kherc/Kherc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
